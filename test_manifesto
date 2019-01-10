@@ -1,6 +1,2 @@
-jimdowling/hopsworks/airflow
-logicalclocks/hopsworks-chef/airflow
-logicalclocks/conda-chef/airflow
-logicalclocks/kagent-chef/airflow
-logicalclocks/ndb-chef/airflow
-logicalclocks/airflow-chef/master
+logicalclocks/hopsworks-chef/gpu_stuck
+logicalclocks/kagent-chef/gpu_stuck
